@@ -3,7 +3,7 @@
 <body>bgcolor="Pink"></body>
 <h1>Shreeyash Naik</h1>
 <h2>CS25044</h2>
-<oI>
+<ol>
 <li>ABC</li>
 <li><XYZ</li>
 <li>123</li>
